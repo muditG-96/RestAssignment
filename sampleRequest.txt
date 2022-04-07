@@ -1,0 +1,14 @@
+http://localhost:8080/suburb1/201011
+[
+    { 
+    "district" : "Ghaziabad",
+    "suburbName" : "ramprastha"
+   },
+   { 
+    "district" : "Ghaziabad",
+    "suburbName" : "surya nagar"
+   },{ 
+    "district" : "Ghaziabad",
+    "suburbName" : "chander nagar"
+  }
+]
